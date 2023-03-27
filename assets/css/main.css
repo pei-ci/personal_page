@@ -29,6 +29,8 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+.indent-2 { text-indent:2em; padding:0px; margin:0px; }
+.margin-buttom-1 {margin-bottom: 1em;}
 body {
 	line-height: 1;
 }
